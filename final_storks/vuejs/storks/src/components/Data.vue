@@ -11,7 +11,7 @@
   <section id="minimal-statistics">
     <div class="row">
       <div class="col-12 mt-3 mb-1">
-        <h4 class="text-uppercase">Minimal Statistics Cards</h4>
+        <h4 class="text-uppercase">KPI Statistics for clinique du val d'ouest</h4>
         <p>Statistics on minimal cards.</p>
       </div>
     </div>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="media-body text-right">
                   <h3>278</h3>
-                  <span>New Posts</span>
+                  <span>Posts</span>
                 </div>
               </div>
             </div>
@@ -43,7 +43,7 @@
                 </div>
                 <div class="media-body text-right">
                   <h3>156</h3>
-                  <span>New Comments</span>
+                  <span>New identifing</span>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="media-body text-right">
                   <h3>-13,78</h3>
-                  <span>Bounce Rate</span>
+                  <span>Birth rate </span>
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="media-body text-right">
                   <h3>423</h3>
-                  <span>Total Visits</span>
+                  <span>Total mounth Visits </span>
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@
               <div class="media d-flex">
                 <div class="media-body text-left">
                   <h3 class="warning">64.89 %</h3>
-                  <span>Conversion Rate</span>
+                  <span>women under 30</span>
                 </div>
                 <div class="align-self-center">
                   <i class="icon-pie-chart warning font-large-2 float-right"></i>
@@ -145,8 +145,8 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="primary">423</h3>
-                  <span>Support Tickets</span>
+                  <h3 class="primary">+0,4%</h3>
+                  <span>number of preterm births</span>
                 </div>
                 <div class="align-self-center">
                   <i class="icon-support primary font-large-2 float-right"></i>
@@ -166,7 +166,7 @@
               <div class="media d-flex">
                 <div class="media-body text-left">
                   <h3 class="primary">278</h3>
-                  <span>New Posts</span>
+                  <span>Register</span>
                 </div>
                 <div class="align-self-center">
                   <i class="icon-book-open primary font-large-2 float-right"></i>
@@ -185,7 +185,7 @@
             <div class="card-body">
               <div class="media d-flex">
                 <div class="media-body text-left">
-                  <h3 class="warning">156</h3>
+                  <h3 class="warning">328</h3>
                   <span>New Comments</span>
                 </div>
                 <div class="align-self-center">
@@ -262,7 +262,7 @@
               </div>
               <div class="media-body">
                 <h4>Total Posts</h4>
-                <span>Monthly blog posts</span>
+                <span>Total blog posts</span>
               </div>
               <div class="align-self-center">
                 <h1>18,000</h1>
@@ -283,7 +283,7 @@
               </div>
               <div class="media-body">
                 <h4>Total Comments</h4>
-                <span>Monthly blog comments</span>
+                <span>Total blog comments</span>
               </div>
               <div class="align-self-center"> 
                 <h1>84,695</h1>
@@ -302,11 +302,11 @@
           <div class="card-body cleartfix">
             <div class="media align-items-stretch">
               <div class="align-self-center">
-                <h1 class="mr-2">$76,456.00</h1>
+                <h1 class="mr-2">1860</h1>
               </div>
               <div class="media-body">
-                <h4>Total Sales</h4>
-                <span>Monthly Sales Amount</span>
+                <h4>Total born</h4>
+                <span>Monthly born Amount</span>
               </div>
               <div class="align-self-center">
                 <i class="icon-heart danger font-large-2"></i>
@@ -316,7 +316,7 @@
         </div>
       </div>
     </div>
-
+    
     <div class="col-xl-6 col-md-12">
       <div class="card">
         <div class="card-content">
